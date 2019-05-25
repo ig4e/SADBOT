@@ -690,7 +690,7 @@ client.on('message', message => {
 });
 //////
 client.on("guildMemberAdd", member => {
-  client.channels.find('id', '581792838287884298').send(` **Welcome To __Te__st Server**  `)
+  client.channels.find('id', '581821024765476864').send(` **Welcome To __Te__st Server**  `)
 }); 
 /////////
-client.login('NTgxNzkyODM4Mjg3ODg0Mjk4.XOkyWw.sQW1ASOjnqM2gFcd8WLYLUcYrkM');
+client.login('NTgxODIxMDI0NzY1NDc2ODY0.XOk1JA.DXgCDrIFHBOdwMMc1lmSLLEAAIk');
